@@ -5,4 +5,4 @@ l'implémentation de fonctions de base comme la création, l'insertion et la
 suppression de livres, ainsi qu'une comparaison des performances entre les deux
 approches.
 
-#### [Voir Le rapport](docs/rapport_projet)
+#### [Voir Le rapport](docs/rapport_projet.pdf)
